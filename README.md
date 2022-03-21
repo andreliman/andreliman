@@ -7,9 +7,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <code><img alt="Andre-CSharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-  <code><img alt="Andre-DotNetCore" height="30" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"></code>
-  <code><img alt="Andre-VisualStudio" height="30" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+  <code><img alt="Andre-CSharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+  <code><img alt="Andre-DotNetCore" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
+  <code><img alt="Andre-VisualStudio" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
   <code><img alt="Andre-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>  
   <code><img alt="Andre-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>  
   <code><img alt="Andre-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
